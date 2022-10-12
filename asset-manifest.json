@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cinex10/instadp-tools/static/css/main.fc0226a7.css",
+    "main.js": "/Cinex10/instadp-tools/static/js/main.e830ad73.js",
+    "index.html": "/Cinex10/instadp-tools/index.html",
+    "main.fc0226a7.css.map": "/Cinex10/instadp-tools/static/css/main.fc0226a7.css.map",
+    "main.e830ad73.js.map": "/Cinex10/instadp-tools/static/js/main.e830ad73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0226a7.css",
+    "static/js/main.e830ad73.js"
+  ]
+}
